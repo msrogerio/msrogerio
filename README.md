@@ -30,4 +30,4 @@ Talk to me about
 - 🎯 Check out my Instagram page: [![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-INSTAGRAM-blueviolet?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rogerio_marlon_ads/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashfx&theme=react&custom_title=Most-Used-Languages)](https://github.com/hashfx/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msrogerio&theme=react&custom_title=Most-Used-Languages)](https://github.com/hashfx/github-readme-stats) 
