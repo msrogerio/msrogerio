@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
 
-[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/msrogerio) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)]
+[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/msrogerio) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/marlon-rog%C3%A9rio-15602a141/)
  
 I am Marlon Rogério 🧔
 
@@ -28,13 +28,12 @@ Talk to me about
 - 💬 Ask me about anything and everything.
 - 🐥Check my Twitter Account [![TWITTER](https://img.shields.io/badge/FOLLOW%20ME-TWITTER-informational?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/MarlonRogrio3)
 - 🎯 Check out my Instagram page: [![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-INSTAGRAM-blueviolet?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rogerio_marlon_ads/)
-- 💁‍♂️ View also review my Kaggle works: [![KAGGLE](https://img.shields.io/badge/FOLLOW%20ME-KAGGLE-yellow?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/codeblogger)
 
 
 ## 📈 Github Stats
 
 <a href="https://github.com/msrogerio/msrogerio">
- <img alt="Furkan-Gulsen's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=furkan-gulsen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+ <img alt="Marlon's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=furkan-gulsen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </a>
 
 
